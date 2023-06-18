@@ -1,1 +1,1 @@
-My sample text from branch1
+My sample text from branch2 to branch1
